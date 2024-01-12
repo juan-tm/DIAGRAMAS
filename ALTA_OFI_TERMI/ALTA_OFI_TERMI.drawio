@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-01-12T18:03:58.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bdjiO4Jh2wPWgZmhgnoc" version="22.1.18" type="device">
+  <diagram name="Página-1" id="70NxygTimjT297L8Gk1M">
+    <mxGraphModel dx="897" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k8BuvVwVBirTte53GLEO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-1" target="k8BuvVwVBirTte53GLEO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="110" />
+              <mxPoint x="295" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-1" target="k8BuvVwVBirTte53GLEO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-1" value="ALTA OFICINAS Y TERMINALES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-2" target="k8BuvVwVBirTte53GLEO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-2" target="k8BuvVwVBirTte53GLEO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-2" target="k8BuvVwVBirTte53GLEO-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-2" value="ALTA OFICINAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-3" target="k8BuvVwVBirTte53GLEO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-3" value="ALTA TERMINALES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-4" target="k8BuvVwVBirTte53GLEO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-4" target="k8BuvVwVBirTte53GLEO-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="290" />
+              <mxPoint x="490" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-4" target="k8BuvVwVBirTte53GLEO-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="340" />
+              <mxPoint x="530" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-4" value="LISTAR OFICINAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-5" value="LISTAR TERMINALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-6" value="EDITAR OFICINAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-7" value="EDITAR TERMINALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-8" value="INGRESAR OFICINAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-9" value="ELIMINAR OFICINAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-10" value="INGRESAR TERMINALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-11" value="ELIMINAR TERMINALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-2" target="k8BuvVwVBirTte53GLEO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.833;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-3" target="k8BuvVwVBirTte53GLEO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8BuvVwVBirTte53GLEO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.892;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k8BuvVwVBirTte53GLEO-3" target="k8BuvVwVBirTte53GLEO-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="180" />
+              <mxPoint x="540" y="240" />
+              <mxPoint x="577" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
